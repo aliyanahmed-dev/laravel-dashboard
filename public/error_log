@@ -1,0 +1,61 @@
+[22-Aug-2023 03:30:05 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:30:05 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:31:01 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:31:01 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:32:12 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:32:12 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:34:07 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:34:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:42:30 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:42:30 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:42:40 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:42:40 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:12 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:12 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:15 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:15 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:16 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:16 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:17 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:17 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:17 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:17 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:18 America/Chicago] PHP Warning:  require(/home1/modestku/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home1/modestku/public_html/public/index.php on line 33
+[22-Aug-2023 03:43:18 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/modestku/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/modestku/public_html/public/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/modestku/public_html/public/index.php on line 33
+[25-Jan-2024 09:34:33 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/techsxqg/institution.technoties.com/vendor/composer/platform_check.php on line 24

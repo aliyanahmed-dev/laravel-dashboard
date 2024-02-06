@@ -1,0 +1,26 @@
+/* HTML: <div class="loader"></div> */
+.loader {
+  width: 50px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 8px solid;
+  border-color: #fff #0000;
+  animation: l1 1s infinite;
+}
+@keyframes l1 {to{transform: rotate(.5turn)}}
+.form.theme-form {
+    position: relative;
+}
+
+.loader-main {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    right: 0;
+    background: #000000d1;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
